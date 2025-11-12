@@ -16,13 +16,13 @@ Mapping
 
 ----------------------
 
-- [Areas](en/mapping/areas.md)
-  - [Cargo](en/mapping/areas/cargo.md)
-  - [Command](en/mapping/areas/command.md)
-  - [Engineering](en/mapping/areas/engineering.md)
-  - [Medical](en/mapping/areas/medical.md)
-    - [Chemistry](en/mapping/areas/medical/chemistry.md)
-    - [Cmo](en/mapping/areas/medical/cmo.md)
-    - [Medbay](en/mapping/areas/medical/medbay.md)
-    - [Morgue](en/mapping/areas/medical/morgue.md)
-    - [Virology](en/mapping/areas/medical/virology.md)
+- [Areas](mapping/areas.md)
+  - [Cargo](mapping/areas/cargo.md)
+  - [Command](mapping/areas/command.md)
+  - [Engineering](mapping/areas/engineering.md)
+  - [Medical](mapping/areas/medical.md)
+    - [Chemistry](mapping/areas/medical/chemistry.md)
+    - [Cmo](mapping/areas/medical/cmo.md)
+    - [Medbay](mapping/areas/medical/medbay.md)
+    - [Morgue](mapping/areas/medical/morgue.md)
+    - [Virology](mapping/areas/medical/virology.md)
