@@ -12,4 +12,3 @@
 - Pun Spawners
 - Extra Shakers
 - Box of Beanbag shells
-- Monkey Painting

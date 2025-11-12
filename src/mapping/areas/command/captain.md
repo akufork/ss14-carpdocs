@@ -1,4 +1,5 @@
 # Captain’s Quarters
+
 ## Required
 - Captain’s Locker [filled]
 - Captain’s Spare ID
@@ -11,3 +12,7 @@
 - Bed + Captains Bedsheet
 - A bathroom / shower room (with duck and soap)
 - Fireplace / TV
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/command/captain}}
+

@@ -13,3 +13,7 @@
 - Personnel Crate
 - Filing Cabinet / Drawers
 - Fireplace / TV
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/command/hop}}
+

@@ -1,1 +1,1 @@
-<img src="../../../assets/images/mapping/areas/[[#path]].png" style="width: min(30vw, 30vh); object-fit: contain; aspect-ratio: 1">
+<img src="[[#path]].png" style="width: max(30vw, 30vh); object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;">

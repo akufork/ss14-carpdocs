@@ -13,3 +13,6 @@
 - Filing Cabinets / Drawers
 - Camera [command]
 - Camera Monitor
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/command/bridge}}
