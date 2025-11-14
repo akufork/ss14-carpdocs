@@ -39,6 +39,3 @@ Optional
 - papers and folders
 - other roleplay friendly items
 - Desks with seating for lawyer and client
-
-# Examples
-{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/security}}

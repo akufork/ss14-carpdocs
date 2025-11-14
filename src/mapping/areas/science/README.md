@@ -54,6 +54,3 @@ Required:
 - Operating Table & Body Scanner Computer
 - Morgue
 - Robotech Deluxe
-
-# Examples
-{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/science}}
