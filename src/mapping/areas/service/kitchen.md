@@ -1,4 +1,5 @@
 # Kitchen
+
 ## Required
 - Microwave(s)
 - Grinder
@@ -17,3 +18,6 @@
 - Spare universal enzymes
 - Cow crate/monkey cubes
 - Cold/Hot food carts
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/service/kitchen}}

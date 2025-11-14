@@ -1,4 +1,5 @@
 # Botany
+
 ## Required
 - Megaseed Servitor
 - Seed Extractor
@@ -13,3 +14,6 @@
 - Grinder
 - Extra Botany Tools
 - Windows to kitchen or chem or both
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/service/botany}}

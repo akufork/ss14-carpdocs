@@ -6,3 +6,6 @@
 - Antimatter Containment Jars (1-2)
 - HV cable under control unit
 - HV to SMES cable terminal input
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/engineering/ame}}

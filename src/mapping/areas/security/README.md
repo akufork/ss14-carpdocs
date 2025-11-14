@@ -22,47 +22,6 @@ Optional
 - Water Cooler
 - Secway Spawner + Keys
 
-## Wardens Office
-Required
-- Warden’s Locker [filled]
-- Criminal Records Computer
-- Station Records Computer
-
-Optional
-- Extra Charger and Batons
-- Filing Cabinets / Drawers
-- A button for securing any blast doors
-- First Aid Kit
-- Camera Monitor / Telescreen
-- McGriff Spawner
-
-## Head of Security’s Room
-Required
-- Head of Security Locker [filled]
-
-Optional
-- Bed + HoS Bedsheets
-- Shiva Spawner
-- Telescreen / Camera Monitor
-- Button for security lethal armory
-- WT550
-
-## Armory
-Required
-- Guns (lethal and non lethal, see above) Use NT Lore friendly weapons, nothing crazy.
-- Security TechFab
-- Security Hardsuits
-
-Optional
-- EOD Suit Closet [filled]
-- Bulletproof Vests / Armor
-- Flashbang box
-- Ammo boxes lethal and non lethal
-- Tech Fab Materials
-- Extra Security Barriers
-- Extra Handcuffs
-- Another SecTech Vending Machine
-
 ## Perma Brig
 Required
 - sustainable food system (hydro trays, fruit seeds, seed extractor, mini hoe , water source, buckets or cups)
@@ -74,33 +33,12 @@ Optional
 - Emergency or Prisoner EVA suits locked up
 - Hide a tool in a plant pot or toilet.
 
-## Detective’s Room
-Required
-- Detective’s Cabinet
-- Station records computer
-
-Optional
-- DetDrobe
-- Detective Items like cigarettes, lighters, hats, folders etc
-- Filing Cabinets / Drawers
-- Water Cooler
-
-## Courtroom
-Required
-- Defence and Prosecution Tables
-- Judges seat & table
-- Witness Stand
-- Accused Stand
-
-Optional
-- Audience Seats
-- Jury Stand
-- court settlement vault
-- Plants, Water cooler, Decoration
-
 ## Law Office
 Optional
 - lawdrobe
 - papers and folders
 - other roleplay friendly items
 - Desks with seating for lawyer and client
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/security}}

@@ -1,4 +1,5 @@
 # Janitor’s Closet
+
 ## Required
 - Janitorial Supplies Crate
 - Soap
@@ -17,3 +18,6 @@
 - Extra light boxes and light replacers
 - Custodial closets
 - Wet floor signs
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/service/janitor}}

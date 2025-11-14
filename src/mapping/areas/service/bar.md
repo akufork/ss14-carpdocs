@@ -1,4 +1,5 @@
 # Bar
+
 ## Required
 - Booze Dispenser
 - Soda Dispenser
@@ -12,3 +13,6 @@
 - Pun Spawners
 - Extra Shakers
 - Box of Beanbag shells
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/service/bar}}

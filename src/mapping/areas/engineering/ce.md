@@ -7,3 +7,6 @@
 - bed/ce bedsheet
 - RCD Ammo
 - Cell Rechargers
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/engineering/ce}}

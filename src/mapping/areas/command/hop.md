@@ -1,4 +1,5 @@
 ## Head of Personnel’s Office
+
 # Required
 - ID Card Computer
 - Head of Personnel locker [filled]
@@ -16,4 +17,3 @@
 
 # Examples
 {{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/command/hop}}
-

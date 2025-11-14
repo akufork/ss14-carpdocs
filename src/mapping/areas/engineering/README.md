@@ -24,9 +24,6 @@ Optional
 - Welding Supplies Locker
 - Electrical Supplies Locker
 
-
-
-
 ## Solars
 Required
 - Solar Panels
@@ -46,3 +43,6 @@ Required
 ## Telecomms
 Required
 - Telecommunications Servers
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/engineering}}
