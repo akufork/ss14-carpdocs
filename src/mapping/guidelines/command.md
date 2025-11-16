@@ -65,4 +65,4 @@
 - Fireplace / TV
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/hop}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/head_of_personnel}}

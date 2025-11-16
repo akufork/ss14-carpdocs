@@ -35,7 +35,7 @@
 - Cell Rechargers
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/ce}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/chief_engineer}}
 
 ## AME
 #### Required

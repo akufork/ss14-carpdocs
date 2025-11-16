@@ -49,7 +49,7 @@
 - WT550
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/hos}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/head_of_security}}
 
 ## Armory
 #### Required

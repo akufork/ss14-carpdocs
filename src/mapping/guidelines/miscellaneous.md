@@ -84,7 +84,7 @@
 - Material Reclaimer
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/dispo}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/disposals}}
 
 ## Theater Room
 #### Required

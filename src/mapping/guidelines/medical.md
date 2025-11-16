@@ -67,7 +67,7 @@
 - cat spawner
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/cmo}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/chief_medical_officer}}
 
 ## Morgue
 #### Required

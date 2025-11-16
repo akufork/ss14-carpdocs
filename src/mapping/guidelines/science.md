@@ -46,7 +46,7 @@
 - Lamarr poster
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/rd}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/research_director}}
 
 ## Robotics
 #### Required:
@@ -57,4 +57,4 @@
 - Robotech Deluxe
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/robot}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/robotics}}

@@ -35,7 +35,7 @@
 - Morticia Spawner
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/cargo/qm}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/cargo/quartermaster}}
 
 ## Salvage
 #### Required
