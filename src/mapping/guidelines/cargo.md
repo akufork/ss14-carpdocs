@@ -52,6 +52,3 @@
 - Extra Tools (shovels/pickaxes)
 - Fire Extinguishers
 - First Aid Kit
-
-### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/cargo/salv}}
