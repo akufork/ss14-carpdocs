@@ -74,9 +74,6 @@
 #### Required
 - Telecommunications Servers
 
-### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/comms}}
-
 ## Atmospherics
 #### Required
 - Atmospheric Technician’s Locker [filled]
