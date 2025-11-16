@@ -1,8 +1,3 @@
-# Areas
-# WIP
-
-
-
 # PR Guildlines
 
 ```admonish warning
@@ -12,28 +7,30 @@ The page will be updated by the mapping work group soon (tm).
 Until then, consult other mappers, people with the "Head Mapper" role, and the #cartography discord channel as for what content should be present in your map. **This should not be your sole source of information.**
 ```
 
-
 # Mapping sins
 =======
 Don't do any of these. They make for bad looking/feeling maps.
 
 ## Ultra-wide hallways
 So the thing about hallways is that they're empty.
+![oversized-hallway.png](../../assets/images/mapping/oversized-hallway.png)
 This looks and feels bad to play in, with a very large amount of blank space visually.
 
 ### Ways to fix
 
-#### Convert to a parkway
+## Convert to a parkway
 Filling the visual emptiness with plantlife or other decoratives helps significantly. This shouldn't be overdone, though, and it's preferrable to simply use smaller hallways.
+![parkway-example.png](../../assets/images/mapping/parkway-example.png)
 
 ## Abdundance of silver/gold tiles
 To put it simply they look terrible, especially combined with decals, and should be used only in extremely specific situations.
+![silver-tiles-hell.png](../../assets/images/mapping/silver-tiles-hell.png)
 
 ### Ways to fix
 
-#### Just change the theme
+## Just change the theme
 If you're using them to line a "rich feeling" room, say, the HoP's office, opt for instead focusing on a home-y feeling, with woods/etc. Most of the station simply does not have this feel and it'll make them seem exceptional.
-
+![silver-tiles-hell-except-good.png](../../assets/images/mapping/silver-tiles-hell-except-good.png)
 
 
 # Mapping Checklist
@@ -61,114 +58,3 @@ If you do choose to add one of these items, seek permission from a maintainer or
 
 ### Item Checklist
 Broken down by department and then by individual area, this contains what items should be mapped and what items can optionally be added. Like the rest of this checklist, this is merely guidelines, not written and stone, and does not apply to non-standard maps.
-
-
-
-
-## Misc
-#### EVA Storage
-Required
-- EVA Suit Storages
-- Masks
-
-Optional
-- Tank Dispenser [EVA]
-- Mag Boots
-
-#### Arrivals
-Required
-- A safe area for late spawns
-- 3xternal airlocks to space (complete with locked docking airlocks)
-
-Optional
-- Non functional docked arrivals shuttle
-- Vending Machines / Arcade Machines
-- Emergency closets
-- Emergency toolboxes/crowbars
-
-#### Chapel
-Required
-- Roleplay friendly area for chaplain
-- Pietyvend
-- Altar Spawner
-
-Optional
-- Chaplain’s wardrobe
-- bed/cult bedsheet
-- Crematorium
-- Church Organ
-- Confession Booth
-
-#### Library
-Required
-- Roleplay friendly area for librarian
-- Fun & Games Machines
-- Books Bag
-
-Optional
-- Lots of bookcases
-- Fax Machine
-- Paperwork Spawner
-- Figuring Spawner
-- Games table
-- Board games
-- Fun toy spawns or instrument spawns
-- Paper for librarian to write books
-- Lantern
-
-#### Maints
-Required
-- Emergency and Fire Closets near doors
-- Water and Fuel Tanks spread out
-- Hidey Holes
-- Maintenance Closet [filled]
-
-Optional
-- Decorations
-- Fun hidden stuff
-- Maint loot spawners
-- Crate Spawners (random and empty)
-- Mouse spawners (one or two timed)
-- Hidden areas
-- Cosmetic loot
-- Tools
-- Garbage and Trash Spawners
-
-#### Disposals
-Required
-- A working disposals system (conveyors and toggled blast doors or recycler)
-- Recycler
-- Airlock to eject trash to space or disposals into space
-- Material Reclaimer
-
-#### Theater Room
-Required
-- Spawns for clown, mime, and musician
-- Autodrobe
-
-Optional
-- A stage for them to act on
-- Bananas and pies for clown, crayons for mime, instruments for musician etc
-- Mime & Clown bedsheets
-
-#### Tool Room
-Required
-- Youtool machine
-- Vendomat
-
-Optional
-- Extra tools & tool boxes
-- Pair of budget insulated gloves
-- Vending machines
-
-#### Halls
-Optional
-- Disposals machines spread out in convenient locations
-- Vending machines, table & chairs and plants to fill up long stretches of hall
-- Use indents, curves and bends as well as features in the center of corridors to break them up
-- Use directional signs to departments at intersections or heavy foot traffic areas
-- Break up halls with glass airlocks and plenty of fire locks
-- You can also use common rooms and parks to break a hallway
-
-
-{{#template ../../templates/mapping/test.md}}

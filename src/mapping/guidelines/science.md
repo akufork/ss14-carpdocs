@@ -1,8 +1,6 @@
-
-
-## Science
+# Science
 ## Research and Development
-Required
+#### Required
 - R&D computer
 - Protolathe
 - Circuit Imprinter
@@ -16,7 +14,7 @@ Required
 - 2-3 Anomaly Vessels
 - 2-3 APES
 
-Optional
+#### Optional
 - Grinder
 - Smile Spawner
 - Beaker boxes
@@ -30,16 +28,16 @@ Optional
 - Vendomat
 
 ## Server Room
-Required
+#### Required
 - R&D Server
 - R&D Computer
 
 ## Research Director’s Room
-Required
+#### Required
 - RD locker [filled]
 - R&D Computer
 
-Optional
+#### Optional
 - bed/RD bedsheet
 - Bandito Spawner
 - Power Drill
@@ -47,10 +45,16 @@ Optional
 - RD’s potted plant
 - Lamarr poster
 
+### Examples
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/rd}}
+
 ## Robotics
-Required:
+#### Required:
 - Exosuit Fabricator
 - Cyborg Recharging Stations
 - Operating Table & Body Scanner Computer
 - Morgue
 - Robotech Deluxe
+
+### Examples
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/robot}}
