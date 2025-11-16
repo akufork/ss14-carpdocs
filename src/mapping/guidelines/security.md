@@ -109,7 +109,7 @@
 - Plants, Water cooler, Decoration
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/court}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/courtroom}}
 
 ## Law Office
 #### Optional

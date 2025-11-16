@@ -9,7 +9,7 @@
 - Mag Boots
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/eva}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/miscellaneous/eva}}
 
 ## Arrivals
 #### Required
@@ -36,7 +36,7 @@
 - Confession Booth
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/chapel}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/miscellaneous/chapel}}
 
 ## Library
 #### Required
@@ -56,7 +56,7 @@
 - Lantern
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/library}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/miscellaneous/library}}
 
 ## Maints
 #### Required
@@ -84,7 +84,7 @@
 - Material Reclaimer
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/disposals}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/miscellaneous/disposals}}
 
 ## Theater Room
 #### Required
@@ -107,7 +107,7 @@
 - Vending machines
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/tools}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/miscellaneous/tools}}
 
 ## Halls
 #### Optional

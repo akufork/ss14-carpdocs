@@ -13,8 +13,12 @@ These maps are derotated and likely very outdated, not recommended to use for re
 
 |     | Derotated |     |
 | :-: | :-: | :-: |
-| **Core** | **Gate** | **Loop** |
-| {{#template timg.md path=[[#path]]/core}} | {{#template timg.md path=[[#path]]/gate}} | {{#template timg.md path=[[#path]]/loop}} |
+| **Aspid** | **Barratry** | **Cluster** |
+| {{#template timg.md path=[[#path]]/aspid}} | {{#template timg.md path=[[#path]]/barratry}} | {{#template timg.md path=[[#path]]/cluster}} |
+| **Cog** | **Core** | **Europa** |
+| {{#template timg.md path=[[#path]]/cog}} | {{#template timg.md path=[[#path]]/core}} | {{#template timg.md path=[[#path]]/europa}} |
+| **Gate** | **Gemini** | **Loop** |
+| {{#template timg.md path=[[#path]]/gate}} | {{#template timg.md path=[[#path]]/gemini}} | {{#template timg.md path=[[#path]]/loop}} |
 | **Meta** | **Oasis** | **Omega** |
 | {{#template timg.md path=[[#path]]/meta}} | {{#template timg.md path=[[#path]]/oasis}} | {{#template timg.md path=[[#path]]/omega}} |
 | **Saltern** | **Train** | |
