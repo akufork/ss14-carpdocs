@@ -95,6 +95,3 @@
 - fire safety closets
 - fireaxe cabinet
 - TEG Setup (look at other maps for examples)
-
-### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/atmos}}
