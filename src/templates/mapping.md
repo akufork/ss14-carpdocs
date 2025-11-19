@@ -1,0 +1,52 @@
+{% macro img(path, map) %}
+{% if map %}
+<img src="/assets/images/mapping/{{path}}/{{map}}.webp" style="width: 100%; object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;">
+{% endif %}
+{% endmacro img %}
+
+{% macro table(title, maps, names, path) %}
+<div class="table-wrapper" style="text-align: center; width: 100%">
+<table>
+<thead>
+<tr><th></th><th>{{ title }}</th><th></th></tr>
+</thead>
+<tbody>
+{% for i in range(end=maps | length, step_by=3) %}
+<tr style="width: 100%;">
+<td style="width: 33%;">{{ names | nth(n=i) }}</td>
+<td style="width: 33%;">{{ names | nth(n=i + 1) }}</td>
+<td style="width: 33%;">{{ names | nth(n=i + 2) }}</td>
+</tr>
+<tr style="width: 100%;">
+<td style="width: 33%;">{{ self::img(path=path, map=maps | nth(n=i)) }}</td>
+<td style="width: 33%;">{{ self::img(path=path, map=maps | nth(n=i + 1)) }}</td>
+<td style="width: 33%;">{{ self::img(path=path, map=maps | nth(n=i + 2)) }}</td>
+</tr>
+{% endfor %}
+</tbody></table>
+</div>
+{% endmacro table %}
+
+{% macro examples(path) %}
+{{ self::table(
+  title="In Rotation",
+  maps=["amber", "bagel", "box", "elkridge", "feint", "fland", "marathon", "oasis-2", "saltern-2", "packed", "plasma", "exo"],
+  names=["Amber", "Bagel", "Box", "Elkridge", "Feint", "Fland", "Marathon", "Oasis 2", "Saltern 2", "Packed", "Plasma", "Exo"],
+  path=path
+)}}
+These maps are derotated and likely very outdated, not recommended to use for reference.
+{{ self::table(
+  title="Derotated",
+  maps=["aspid", "barratry", "cluster", "cog", "core", "gate", "gemini", "loop", "meta", "oasis", "omega", "saltern", "train"],
+  names=["Aspid", "Barratry", "Cluster", "Cog", "Core", "Gate", "Gemini", "Loop", "Meta", "Oasis", "Omega", "Saltern", "Train"],
+  path=path
+)}}
+These maps are work-in-progress, don't judge them yet :3c
+{{ self::table(
+  title="Work-In-Progress",
+  maps=["senpeak"],
+  names=["Serenity Peak"],
+  path=path
+)}}
+{% endmacro examples %}
+
