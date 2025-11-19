@@ -13,9 +13,9 @@
 <tbody>
 {% for i in range(end=maps | length, step_by=3) %}
 <tr style="width: 100%;">
-<td style="width: 33%;">{{ names | nth(n=i) }}</td>
-<td style="width: 33%;">{{ names | nth(n=i + 1) }}</td>
-<td style="width: 33%;">{{ names | nth(n=i + 2) }}</td>
+<td style="width: 33%;"><strong>{{ names | nth(n=i) }}</strong></td>
+<td style="width: 33%;"><strong>{{ names | nth(n=i + 1) }}</strong></td>
+<td style="width: 33%;"><strong>{{ names | nth(n=i + 2) }}</strong></td>
 </tr>
 <tr style="width: 100%;">
 <td style="width: 33%;">{{ self::img(path=path, map=maps | nth(n=i)) }}</td>
