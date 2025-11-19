@@ -17,4 +17,3 @@
 
 ## Examples
 {{ map::examples(path="security/armory") }}
-
