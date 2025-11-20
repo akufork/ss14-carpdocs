@@ -77,4 +77,5 @@ Mapping
     - [Janitor](mapping/guidelines/service/janitor.md)
     - [Kitchen](mapping/guidelines/service/kitchen.md)
     - [Library](mapping/guidelines/service/library.md)
+    - [Reporter](mapping/guidelines/service/reporter.md)
     - [Theater](mapping/guidelines/service/theater.md)
