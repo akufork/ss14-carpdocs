@@ -69,6 +69,7 @@ Mapping
     - [Courtroom](mapping/guidelines/security/courtroom.md)
     - [Detective](mapping/guidelines/security/detective.md)
     - [Head of Security](mapping/guidelines/security/head_of_security.md)
+    - [Interrogation](mapping/guidelines/security/interrogation.md)
     - [Lawyer](mapping/guidelines/security/lawyer.md)
     - [Main Area](mapping/guidelines/security/main_area.md)
     - [Perma Brig](mapping/guidelines/security/perma_brig.md)
