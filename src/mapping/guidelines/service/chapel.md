@@ -13,4 +13,4 @@
 - Confession Booth
 
 ## Examples
-{{ map::examples(path="miscellaneous/chapel") }}
+{{ map::examples(path="service/chapel") }}

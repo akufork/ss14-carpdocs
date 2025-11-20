@@ -17,4 +17,4 @@
 - Lantern
 
 ## Examples
-{{ map::examples(path="miscellaneous/library") }}
+{{ map::examples(path="service/library") }}
